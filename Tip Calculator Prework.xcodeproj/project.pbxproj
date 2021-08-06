@@ -24,6 +24,7 @@
 		22B9018326BCC54600EAD851 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22B9018626BCC54600EAD851 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		22B9018826BCC54600EAD851 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22B9018E26BCD2AB00EAD851 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				22B9018326BCC54600EAD851 /* Assets.xcassets */,
 				22B9018526BCC54600EAD851 /* LaunchScreen.storyboard */,
 				22B9018826BCC54600EAD851 /* Info.plist */,
+				22B9018E26BCD2AB00EAD851 /* README.md */,
 			);
 			path = "Tip Calculator Prework";
 			sourceTree = "<group>";
