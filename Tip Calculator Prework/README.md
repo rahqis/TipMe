@@ -28,15 +28,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/66099882/128449818-3ecaa309-6a5c-4ffb-a5ec-dc294fc38c95.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/66099882/128449818-3ecaa309-6a5c-4ffb-a5ec-dc294fc38c95.gif)
 
 
 ## License
